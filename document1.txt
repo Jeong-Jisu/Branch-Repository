@@ -1,8 +1,6 @@
-#파일 2번째 수정중이야 우잉!!
 
 
-#안녕안녕 나는 지수야 
-#헬륨가스 먹었더니 이로케 됐지~
+# 아아 여기는 브랜치 1. 브랜치 1. 응답하라 오버
 
 def partition(l, r, nums):
     # Last element will be the pivot and the first element the pointer
