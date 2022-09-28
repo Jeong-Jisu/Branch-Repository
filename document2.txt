@@ -1,3 +1,5 @@
+//하하 여기는 document 2. 응답하라 지수!!
+
 // C program for Merge Sort
 #include <stdio.h>
 #include <stdlib.h>
